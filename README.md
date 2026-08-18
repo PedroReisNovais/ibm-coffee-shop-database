@@ -33,26 +33,32 @@ Projetar e implementar o banco de dados de uma rede de cafeterias, partindo da m
 ibm-coffee-shop-database/
 ├── README.md
 ├── sql/
+│   ├── CoffeeData.sql
 │   ├── GeneratedScript.sql
 │   └── views.sql
 ├── data/
 │   ├── product_info_m-view.csv
 │   └── staff_locations_view.csv
 └── screenshots/
-    └── Task8.png
+    ├── Task1.png
+    ├── Task7.png
+    ├── Task8.png
+    ├── Task9.png
+    └── Task10.png
 ```
 
 ## Arquivos disponíveis
 
+- `sql/CoffeeData.sql`: dump dos dados do banco PostgreSQL.
 - `sql/GeneratedScript.sql`: script de criação do esquema.
 - `sql/views.sql`: definições das views usadas no projeto.
 - `data/staff_locations_view.csv`: exportação da view de funcionários e locais.
 - `data/product_info_m-view.csv`: exportação da materialized view de produtos.
-- `screenshots/Task8.png`: evidência disponível da atividade 8.
+- `screenshots/`: evidências disponíveis das atividades 1, 7, 8, 9 e 10.
 
 ## Evidências ainda não incluídas
 
-Os arquivos `Task1.png`–`Task7.png`, `Task9.png` e `Task10.png` não estavam disponíveis para inclusão. O arquivo `CoffeeData.sql` também não está presente no repositório porque não foi localizado entre os anexos disponíveis.
+Os arquivos `Task2.png`–`Task6.png` ainda não foram disponibilizados para inclusão.
 
 ## Autor
 
